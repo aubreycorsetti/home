@@ -15,14 +15,7 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/aubreycorsetti",
     },
-    // {
-    //   image: "fa-facebook",
-    //   url: "https://www.facebook.com/aubreylynnecorsetti",
-    // },
-    // {
-    //   image: "fa-instagram",
-    //   url: "https://www.instagram.com/aubrey.corsetti/",
-    // },
+
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/aubrey-corsetti/",
